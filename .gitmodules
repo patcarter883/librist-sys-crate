@@ -1,0 +1,3 @@
+[submodule "librist"]
+	path = librist
+	url = https://code.videolan.org/rist/librist.git

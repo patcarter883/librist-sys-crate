@@ -1,0 +1,57 @@
+{
+  "worktrees": {
+    "wt-1775040401441-2": {
+      "branch": "long-indigo",
+      "path": "/mnt/data/projects/open-broadcast/librist-sys-crate/.kilo/worktrees/long-indigo",
+      "parentBranch": "feat/librist-sys",
+      "createdAt": "2026-04-01T10:46:41.441Z",
+      "remote": "origin",
+      "groupId": "grp-1775040400843"
+    },
+    "wt-1775040401617-3": {
+      "branch": "jolly-manicure",
+      "path": "/mnt/data/projects/open-broadcast/librist-sys-crate/.kilo/worktrees/jolly-manicure",
+      "parentBranch": "feat/librist-sys",
+      "createdAt": "2026-04-01T10:46:41.617Z",
+      "remote": "origin",
+      "groupId": "grp-1775040400843"
+    },
+    "wt-1775040401799-4": {
+      "branch": "stripe-nerve",
+      "path": "/mnt/data/projects/open-broadcast/librist-sys-crate/.kilo/worktrees/stripe-nerve",
+      "parentBranch": "feat/librist-sys",
+      "createdAt": "2026-04-01T10:46:41.799Z",
+      "remote": "origin",
+      "groupId": "grp-1775040400843",
+      "label": "Codebase review and simplification suggestions"
+    }
+  },
+  "sessions": {
+    "ses_2b76053faffeyZBZWSwXbACrOT": {
+      "worktreeId": null,
+      "createdAt": "2026-04-01T10:38:37.062Z"
+    },
+    "ses_2b758efb5ffe05TYR0GoHD66VH": {
+      "worktreeId": "wt-1775040401441-2",
+      "createdAt": "2026-04-01T10:46:41.484Z"
+    },
+    "ses_2b758ef1bffem9C4i1UxdS9LVJ": {
+      "worktreeId": "wt-1775040401617-3",
+      "createdAt": "2026-04-01T10:46:41.638Z"
+    },
+    "ses_2b758ee63ffe0sV4rf6Q7FSPvt": {
+      "worktreeId": null,
+      "createdAt": "2026-04-02T06:55:04.098Z"
+    }
+  },
+  "tabOrder": {
+    "wt-1775040401617-3": [
+      "ses_2b758ef1bffem9C4i1UxdS9LVJ"
+    ]
+  },
+  "worktreeOrder": [
+    "wt-1775040401441-2",
+    "wt-1775040401617-3",
+    "wt-1775040401799-4"
+  ]
+}
